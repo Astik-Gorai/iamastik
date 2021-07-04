@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iamastik
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning Data Structure
+- 📫 How to reach me email:itsastik2000@gmail.com
