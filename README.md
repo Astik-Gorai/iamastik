@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astik</h1>
-<h3 align="center">CS SOPHOMORE AT IIEST</h3>
+<h3 align="center">CS SOPHOMORE AT IIEST SHIBPUR</h3>
 
 - 🌱 I’m currently learning **Machine Learning,DSA**
 
